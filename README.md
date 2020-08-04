@@ -7,5 +7,6 @@ Deep Learning models involving Convolutional Neural Networks enjoy stellar succe
 
 ## Authors:
 
-[Siddhant Agarwal*](https://www.linkedin.com/in/siddhant-agarwal-688a31156/), [Aadarsh Sahoo*](https://www.linkedin.com/in/aadsah/), [Adarsh Patnaik*](https://www.linkedin.com/in/adarsh-patnaik-a57667149/), [Rajat Kumar Jenamani*](https://www.linkedin.com/in/rkjenamani/)
-*Indian Institute of Technology Kharagpur, West Bengal, India
+[Siddhant Agarwal](https://www.linkedin.com/in/siddhant-agarwal-688a31156/), [Aadarsh Sahoo](https://www.linkedin.com/in/aadsah/), [Adarsh Patnaik](https://www.linkedin.com/in/adarsh-patnaik-a57667149/), [Rajat Kumar Jenamani](https://www.linkedin.com/in/rkjenamani/)
+
+#### Indian Institute of Technology Kharagpur, West Bengal, India
