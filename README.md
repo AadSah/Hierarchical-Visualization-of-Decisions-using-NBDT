@@ -1,6 +1,5 @@
 # Hierarchical Visualization of Decisions Using Neural-Backed Decision Trees
 
-Siddhant Agarwal, Aadarsh Sahoo, Adarsh Patnaik, Rajat Kumar Jenamani
 
 ## Abstract
 
@@ -9,4 +8,4 @@ Deep Learning models involving Convolutional Neural Networks enjoy stellar succe
 ## Authors:
 
 [Siddhant Agarwal*](https://www.linkedin.com/in/siddhant-agarwal-688a31156/), [Aadarsh Sahoo*](https://www.linkedin.com/in/aadsah/), [Adarsh Patnaik*](https://www.linkedin.com/in/adarsh-patnaik-a57667149/), [Rajat Kumar Jenamani*](https://www.linkedin.com/in/rkjenamani/)
-* Indian Institute of Technology Kharagpur, West Bengal, India
+*Indian Institute of Technology Kharagpur, West Bengal, India
